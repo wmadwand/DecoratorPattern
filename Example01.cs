@@ -86,5 +86,4 @@ namespace Decorator
     //        Console.ReadLine();
     //    }
     //}
-
 }
